@@ -1,1 +1,1 @@
-# mysite
+# Django Local Library
